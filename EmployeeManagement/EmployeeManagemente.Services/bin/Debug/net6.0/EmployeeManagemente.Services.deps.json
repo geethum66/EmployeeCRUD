@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EmployeeManagemente.Services/1.0.0": {
+        "dependencies": {
+          "EmployeeManagemente.Repository": "1.0.0"
+        },
+        "runtime": {
+          "EmployeeManagemente.Services.dll": {}
+        }
+      },
+      "EmployeeManagemente.Common/1.0.0": {
+        "runtime": {
+          "EmployeeManagemente.Common.dll": {}
+        }
+      },
+      "EmployeeManagemente.Repository/1.0.0": {
+        "dependencies": {
+          "EmployeeManagemente.Common": "1.0.0"
+        },
+        "runtime": {
+          "EmployeeManagemente.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeeManagemente.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeeManagemente.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeeManagemente.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

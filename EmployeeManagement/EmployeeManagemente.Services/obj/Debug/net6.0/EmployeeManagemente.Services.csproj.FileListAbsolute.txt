@@ -1,0 +1,17 @@
+C:\Users\krvis\source\repos\EmployeeManagement\EmployeeManagemente.Services\bin\Debug\net6.0\EmployeeManagemente.Services.deps.json
+C:\Users\krvis\source\repos\EmployeeManagement\EmployeeManagemente.Services\bin\Debug\net6.0\EmployeeManagemente.Services.dll
+C:\Users\krvis\source\repos\EmployeeManagement\EmployeeManagemente.Services\bin\Debug\net6.0\EmployeeManagemente.Services.pdb
+C:\Users\krvis\source\repos\EmployeeManagement\EmployeeManagemente.Services\bin\Debug\net6.0\EmployeeManagemente.Common.dll
+C:\Users\krvis\source\repos\EmployeeManagement\EmployeeManagemente.Services\bin\Debug\net6.0\EmployeeManagemente.Repository.dll
+C:\Users\krvis\source\repos\EmployeeManagement\EmployeeManagemente.Services\bin\Debug\net6.0\EmployeeManagemente.Repository.pdb
+C:\Users\krvis\source\repos\EmployeeManagement\EmployeeManagemente.Services\bin\Debug\net6.0\EmployeeManagemente.Common.pdb
+C:\Users\krvis\source\repos\EmployeeManagement\EmployeeManagemente.Services\obj\Debug\net6.0\EmployeeManagemente.Services.csproj.AssemblyReference.cache
+C:\Users\krvis\source\repos\EmployeeManagement\EmployeeManagemente.Services\obj\Debug\net6.0\EmployeeManagemente.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krvis\source\repos\EmployeeManagement\EmployeeManagemente.Services\obj\Debug\net6.0\EmployeeManagemente.Services.AssemblyInfoInputs.cache
+C:\Users\krvis\source\repos\EmployeeManagement\EmployeeManagemente.Services\obj\Debug\net6.0\EmployeeManagemente.Services.AssemblyInfo.cs
+C:\Users\krvis\source\repos\EmployeeManagement\EmployeeManagemente.Services\obj\Debug\net6.0\EmployeeManagemente.Services.csproj.CoreCompileInputs.cache
+C:\Users\krvis\source\repos\EmployeeManagement\EmployeeManagemente.Services\obj\Debug\net6.0\EmployeeManagemente.Services.csproj.CopyComplete
+C:\Users\krvis\source\repos\EmployeeManagement\EmployeeManagemente.Services\obj\Debug\net6.0\EmployeeManagemente.Services.dll
+C:\Users\krvis\source\repos\EmployeeManagement\EmployeeManagemente.Services\obj\Debug\net6.0\refint\EmployeeManagemente.Services.dll
+C:\Users\krvis\source\repos\EmployeeManagement\EmployeeManagemente.Services\obj\Debug\net6.0\EmployeeManagemente.Services.pdb
+C:\Users\krvis\source\repos\EmployeeManagement\EmployeeManagemente.Services\obj\Debug\net6.0\ref\EmployeeManagemente.Services.dll

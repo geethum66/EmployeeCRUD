@@ -1,0 +1,12 @@
+C:\Users\krvis\source\repos\EmployeeManagement\EmployeeManagemente.Common\bin\Debug\net6.0\EmployeeManagemente.Common.deps.json
+C:\Users\krvis\source\repos\EmployeeManagement\EmployeeManagemente.Common\bin\Debug\net6.0\EmployeeManagemente.Common.dll
+C:\Users\krvis\source\repos\EmployeeManagement\EmployeeManagemente.Common\bin\Debug\net6.0\EmployeeManagemente.Common.pdb
+C:\Users\krvis\source\repos\EmployeeManagement\EmployeeManagemente.Common\obj\Debug\net6.0\EmployeeManagemente.Common.csproj.AssemblyReference.cache
+C:\Users\krvis\source\repos\EmployeeManagement\EmployeeManagemente.Common\obj\Debug\net6.0\EmployeeManagemente.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krvis\source\repos\EmployeeManagement\EmployeeManagemente.Common\obj\Debug\net6.0\EmployeeManagemente.Common.AssemblyInfoInputs.cache
+C:\Users\krvis\source\repos\EmployeeManagement\EmployeeManagemente.Common\obj\Debug\net6.0\EmployeeManagemente.Common.AssemblyInfo.cs
+C:\Users\krvis\source\repos\EmployeeManagement\EmployeeManagemente.Common\obj\Debug\net6.0\EmployeeManagemente.Common.csproj.CoreCompileInputs.cache
+C:\Users\krvis\source\repos\EmployeeManagement\EmployeeManagemente.Common\obj\Debug\net6.0\EmployeeManagemente.Common.dll
+C:\Users\krvis\source\repos\EmployeeManagement\EmployeeManagemente.Common\obj\Debug\net6.0\refint\EmployeeManagemente.Common.dll
+C:\Users\krvis\source\repos\EmployeeManagement\EmployeeManagemente.Common\obj\Debug\net6.0\EmployeeManagemente.Common.pdb
+C:\Users\krvis\source\repos\EmployeeManagement\EmployeeManagemente.Common\obj\Debug\net6.0\ref\EmployeeManagemente.Common.dll
